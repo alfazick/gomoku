@@ -35,6 +35,7 @@ class HumanPlayer(Player):
                 else:
                     print("Dimension is board is {}, indexing starts with 0".format(board.dimension))
                     print("Check if cell is already occupied")
+                    break
 
 
 
